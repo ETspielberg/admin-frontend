@@ -1,4 +1,4 @@
-package unidue.ub.adminfrontend;
+package org.unidue.ub.libintel.adminfrontend;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

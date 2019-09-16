@@ -1,4 +1,4 @@
-package unidue.ub.adminfrontend;
+package org.unidue.ub.libintel.adminfrontend;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
